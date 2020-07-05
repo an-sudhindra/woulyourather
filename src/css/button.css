@@ -1,0 +1,31 @@
+
+.MuiButton-root {
+    font-size: 0.8rem !important;
+    text-transform: none !important;
+    line-height: 1.2 !important;
+}
+
+.MuiButton-textPrimary {
+    color: #ffffff !important;
+}
+
+.button {
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid #008080;
+    background: #008080;
+}
+
+select {
+    font-size: 12px !important;
+}
+
+.MuiInputBase-root {
+    border: 1px solid #008080;
+    border-radius: 5px;
+}
+
+.MuiSelect-icon {
+    color: #008080 !important;
+}
